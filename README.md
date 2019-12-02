@@ -1,6 +1,6 @@
 # PHP Minestry of health
 ## Users : 
-### Administrator  :
+#### Administrator  :
 		1- Mail : Send and receive Message between users.
 		2- Hospitals : Manage hospital and add users for hospitals
 		3- Pharmacies : Manage pharmacies and add users for pharmacies
