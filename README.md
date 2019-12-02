@@ -8,7 +8,7 @@
 		5- Users : Manage all users
 		6- Medecines
 		7- Change Password
-	###Hospitals
+#### Hospitals
 		1- Patients : List and detail of patient in hospital 
 		2- Prospection : 
 		3- Sick Leave
@@ -17,12 +17,12 @@
 		5- Appointments : List of appointments
 		6- Mail 
 		7- Change Password
-	### Pharmacies
+#### Pharmacies
 		1- Medecines
 		2- Prospection
 		3- Mail
 		4- Change Password
-	### Patient
+#### Patient
 		1- Prospection
 		2- Appointments
 		3- Mail
