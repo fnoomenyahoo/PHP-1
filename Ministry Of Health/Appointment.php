@@ -1,7 +1,8 @@
 <?php
  if (session_status() !== PHP_SESSION_ACTIVE) {session_start();}
 if(!isset($_SESSION["type"]) || $_SESSION["type"]!="Patient")
-{   header('location:login.php');
+{
+     header('location:login.php');
 }
 ?>
 <!doctype html>
